@@ -1,0 +1,80 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Metro
+.expo/
+.expo-shared/
+.expo-packager-cache/
+.expo-cache/
+
+# iOS
+ios/build/
+ios/Pods/
+ios/DerivedData/
+*.xcworkspace
+*.xcuserdata
+ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.idea/
+
+# Misc
+.env
+.env.*
+.vscode/
+.idea/
+*.iml
+
+# React Native cache
+tmp/
+temp/
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+
+# NPM shrinkwrap
+npm-shrinkwrap.json
+
+# Watchman
+.watchmanconfig
+
+# Bundle output
+*.jsbundle
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Buck
+buck-out/
+\.buckd/
+
+# Coverage
+coverage/
+
+# Firebase
+firebase-debug.log
+
+# Android Studio
+.gradle/
+captures/
+.externalNativeBuild/
+
+# OSX
+*.DS_Store
+
+# Crashlytics
+crashlytics-build.properties
